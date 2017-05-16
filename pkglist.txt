@@ -51,6 +51,8 @@ gvim
 inetutils
 iputils
 jre8-openjdk
+libva-intel-driver
+libva-mesa-driver
 linux
 logrotate
 lvm2
@@ -89,6 +91,8 @@ vim-ultisnips
 vlc
 wget
 which
+xf86-input-libinput
+xf86-video-intel
 xmoto
 xsel
 xterm
